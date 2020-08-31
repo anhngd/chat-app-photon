@@ -1,0 +1,12 @@
+D:\repo\PhotonApp\ChatClient\bin\Release\ChatClient.exe.config
+D:\repo\PhotonApp\ChatClient\bin\Release\ChatClient.exe
+D:\repo\PhotonApp\ChatClient\bin\Release\ChatClient.pdb
+D:\repo\PhotonApp\ChatClient\bin\Release\Photon3DotNet.dll
+D:\repo\PhotonApp\ChatClient\bin\Release\websocket-sharp.dll
+D:\repo\PhotonApp\ChatClient\bin\Release\Photon3DotNet.pdb
+D:\repo\PhotonApp\ChatClient\bin\Release\Photon3DotNet.xml
+D:\repo\PhotonApp\ChatClient\obj\Release\ChatClient.csprojAssemblyReference.cache
+D:\repo\PhotonApp\ChatClient\obj\Release\ChatClient.csproj.CoreCompileInputs.cache
+D:\repo\PhotonApp\ChatClient\obj\Release\ChatClient.csproj.CopyComplete
+D:\repo\PhotonApp\ChatClient\obj\Release\ChatClient.exe
+D:\repo\PhotonApp\ChatClient\obj\Release\ChatClient.pdb

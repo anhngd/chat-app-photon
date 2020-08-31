@@ -1,0 +1,14 @@
+D:\repo\PhotonApp\ChatServer\bin\Debug\ChatServer.dll
+D:\repo\PhotonApp\ChatServer\bin\Debug\ChatServer.pdb
+D:\repo\PhotonApp\ChatServer\bin\Debug\ExitGamesLibs.dll
+D:\repo\PhotonApp\ChatServer\bin\Debug\Photon.SocketServer.dll
+D:\repo\PhotonApp\ChatServer\bin\Debug\ExitGamesLibs.pdb
+D:\repo\PhotonApp\ChatServer\bin\Debug\ExitGamesLibs.xml
+D:\repo\PhotonApp\ChatServer\bin\Debug\Photon.SocketServer.pdb
+D:\repo\PhotonApp\ChatServer\bin\Debug\Photon.SocketServer.xml
+D:\repo\PhotonApp\ChatServer\bin\Debug\Photon.SocketServer.dll.config
+D:\repo\PhotonApp\ChatServer\obj\Debug\ChatServer.csprojAssemblyReference.cache
+D:\repo\PhotonApp\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+D:\repo\PhotonApp\ChatServer\obj\Debug\ChatServer.csproj.CopyComplete
+D:\repo\PhotonApp\ChatServer\obj\Debug\ChatServer.dll
+D:\repo\PhotonApp\ChatServer\obj\Debug\ChatServer.pdb
